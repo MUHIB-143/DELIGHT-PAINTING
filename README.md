@@ -2,4 +2,4 @@
 The apk for website of DELIGHT PAINTING SERVICES 
 
 # DOWNLOAD 
-<img src="/file/logo.pnj" alt="DELIGHT PAINTING" height="80">
+<img src="/file/logo.png" alt="DELIGHT PAINTING" height="80">
